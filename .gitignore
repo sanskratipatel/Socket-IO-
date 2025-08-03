@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Logs
+*.log
+
+# System files
+Thumbs.db
+
+# Uvicorn reload file
+.reload
+
+# Python environment files
+*.env
+.env
+
+# OS or temp files
+*.swp
+*.swo
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Cache files
+*.sqlite3
+*.db
+.cache/
+pip-wheel-metadata/
