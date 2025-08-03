@@ -5,7 +5,7 @@ This project demonstrates how to use **FastAPI** with **Socket.IO** for real-tim
 
 ---
 
-## 🚀 Features
+##  Features
 
 - FastAPI backend with async routes
 - Socket.IO real-time communication
@@ -15,7 +15,7 @@ This project demonstrates how to use **FastAPI** with **Socket.IO** for real-tim
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 - Python 3.8+
 - pip
@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 .
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Running the Server
+##  Running the Server
 
 ```bash
 uvicorn main:socket_app --reload
@@ -51,7 +51,7 @@ Server will be live at: [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
 ---
 
-## 🧪 API Endpoints
+##  API Endpoints
 
 | Method | Endpoint                      | Description                        |
 | ------ | ----------------------------- | ---------------------------------- |
@@ -61,7 +61,7 @@ Server will be live at: [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
 ---
 
-## 🧠 Socket.IO Events
+##  Socket.IO Events
 
 | Event Name          | Direction       | Description                      |
 | ------------------- | --------------- | -------------------------------- |
