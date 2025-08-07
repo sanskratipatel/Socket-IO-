@@ -1,5 +1,5 @@
-# Socket-IO-
-Socket-IO  for learning purpose 
+# Socket-IO
+Socket-IO for learning purpose 
 
 This project demonstrates how to use **FastAPI** with **Socket.IO** for real-time event communication. It allows multiple users under the same account to receive a file when one user triggers a `/print` API, and stops sending it when any user clicks a "Print" button.
 
