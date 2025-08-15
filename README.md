@@ -38,7 +38,6 @@ pip install -r requirements.txt
 ├── .gitignore
 └── README.md
 ```
-
 ---
 
 ##  Running the Server
